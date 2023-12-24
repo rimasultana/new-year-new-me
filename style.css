@@ -75,7 +75,7 @@ body {
   font-size: 16px;
   margin-top: 16px;
   width: 40%;
-  margin-left: 150px;
+  /* margin-left: 150px; */
 }
 .item {
   margin-top: 8px;
@@ -132,4 +132,30 @@ body {
   border: 0;
   background-color: #fff;
   margin-top: 15px;
+}
+/* footer */
+.foot {
+  display: flex;
+  justify-content: space-evenly;
+  color: #fff;
+  background-color: #151414;
+  margin-top: 90px;
+}
+.future {
+}
+.subscribe {
+}
+.future-description {
+  font-size: 16px;
+  margin-top: 15px;
+  width: 400px;
+}
+.img {
+}
+.primary-colour {
+  color: #fff;
+  border-radius: 8px;
+  padding: 20px 35px;
+  color: #f15b22;
+  font-size: 20px;
 }
