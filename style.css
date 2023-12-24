@@ -136,22 +136,32 @@ body {
 /* footer */
 .foot {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   color: #fff;
   background-color: #151414;
-  margin-top: 90px;
+  height: 577px;
+  align-items: center;
+  margin-top: 130px;
 }
-.future {
-}
-.subscribe {
+
+.future-title {
+  font-size: 45px;
 }
 .future-description {
   font-size: 16px;
-  margin-top: 15px;
-  width: 400px;
+  margin-top: 16px;
 }
-.img {
+
+.email {
+  font-size: 16px;
+  margin-top: 24px;
 }
+.phone {
+  font-size: 16px;
+  margin-top: 8px;
+  margin-bottom: 30px;
+}
+
 .primary-colour {
   color: #fff;
   border-radius: 8px;
