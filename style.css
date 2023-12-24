@@ -162,10 +162,23 @@ body {
   margin-bottom: 30px;
 }
 
-.primary-colour {
-  color: #fff;
-  border-radius: 8px;
+.secendary {
+  border-radius: 10px;
   padding: 20px 35px;
-  color: #f15b22;
   font-size: 20px;
+  background-color: #fff;
+  color: #f15b22;
+  margin-top: 16px;
+}
+.subscribe-title {
+  font-size: 25px;
+}
+.id {
+  padding: 20px 20px;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  background-color: #151414;
+  margin-top: 31px;
 }
