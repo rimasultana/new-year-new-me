@@ -9,7 +9,8 @@
   width: 1600px;
   height: 800px;
   display: flex;
-  justify-content: end;
+  justify-content: right;
+  text-align: right;
 }
 .box-service {
   margin-top: 200px;
@@ -180,4 +181,8 @@
   border: 1px solid #fff;
   background-color: #151414;
   margin-top: 31px;
+}
+
+.item > i {
+  color: #005fac;
 }
