@@ -114,6 +114,7 @@
   margin: auto;
   display: flex;
   margin-top: 130px;
+  margin-bottom: 130px;
 }
 .watch-details {
   margin: 50px;
@@ -132,6 +133,43 @@
   border: 0;
   background-color: #fff;
   margin-top: 15px;
+}
+
+/* About section */
+.about {
+  width: 60%;
+  height: 40vh;
+  background: lavenderblush;
+  margin: auto;
+}
+.about-me {
+  color: #151414;
+  text-align: center;
+}
+.about-title {
+  font-size: 40px;
+  padding: 25px 10px;
+}
+.about-description {
+  font-size: 16px;
+  padding: 10px 15px;
+  margin-top: 15px;
+}
+.about-down-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.about-details {
+  margin-bottom: 10px;
+}
+.down-title {
+  font-size: 16px;
+  color: gray;
+  margin-top: 20px;
+}
+.down-name {
+  margin-top: 8px;
 }
 /* footer */
 .foot {
@@ -181,5 +219,5 @@
   border: 1px solid #fff;
   background-color: #151414;
   margin-top: 31px;
+  font-weight: bold;
 }
-
